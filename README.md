@@ -8,19 +8,19 @@ This web-based weather forecast application, crafted with a minimalist design us
 ## Installation
 To run the Weather Forecast App locally, follow these steps:
 ### 1. Clone this repository:
-git clone 
+`git clone https://github.com/Ryannn41/Weather-Forecast-App.git`
 
 ### 2. Navigate to the directory:
-cd weather-app
+`cd weather-app`
 
 ### 3. Install all the dependencies:
-npm install
+`npm install`
 
 ### 4. Go to OpenWeather and generate your own key:
-https://openweathermap.org/api
+`https://openweathermap.org/api`
 
 ### 5. Replace with your own key and start:
-npm start
+`npm start`
 
 ## Functionality
 ### Weather Forecast: 
