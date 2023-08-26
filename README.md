@@ -29,7 +29,7 @@ Provide accurate weather information, encompassing details such as temperature, 
 ### Real-time Updates: 
 The application consistently retrieves data from the OpenWeather API, guaranteeing that the weather details are always current.
 
-### Previe
+### Preview
 ![Alt text](image.png)
 
 
