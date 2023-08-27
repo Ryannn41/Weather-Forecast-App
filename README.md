@@ -8,7 +8,7 @@ https://weather-wenhaoyu.com/
 • React.js Framework.
 • Restful APIs with OpeanWeather.
 
-## Installation
+## Local Installation
 To run the Weather Forecast App locally, follow these steps:
 ### 1. Clone this repository:
 `git clone https://github.com/Ryannn41/Weather-Forecast-App.git`
