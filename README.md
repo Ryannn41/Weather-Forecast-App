@@ -1,6 +1,9 @@
 # Weather Forecast App
 This web-based weather forecast application, crafted with a minimalist design using React, effortlessly incorporates the OpenWeather API. It aims to furnish precise weather updates, covering key aspects like temperature, wind speed, and humidity. Its central goal is to furnish users with current weather insights and forecasts in a seamless manner.
 
+## Live Demo
+https://weather-wenhaoyu.com/
+
 ## Techniques Used
 • React.js Framework.
 • Restful APIs with OpeanWeather.
